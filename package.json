@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@xansfer/xansfer-utils": "^1.1.0",
     "fs": "0.0.1-security",
     "needle": "^2.2.1"
   }

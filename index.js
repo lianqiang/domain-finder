@@ -1,6 +1,6 @@
 const needle = require('needle')
 const fs = require('fs')
-const Limiter = require('@xansfer/xansfer-utils').rate_limiter
+const Limiter = require('./limiter.js')
 
 const key = '38qTTdkDwfmshtCjg7IeahvveWYjp1yeEoNjsnlVsG2D0aiXUr'
 
